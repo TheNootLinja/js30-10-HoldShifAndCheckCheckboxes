@@ -1,0 +1,3 @@
+# Javascript 30 day 10
+
+This one was a little tougher than I thought it would be but maybe that was because of how I approached it. My initial thought was to use indexes to figure out the items in between the 2 selected checkboxes but ended up deciding that I would check if I was even going down the right path. Seeing how Wes approached it gave me new perspective on another method of solving this that seemed much simpler than what I thought even if it would have worked in the end (after a lot of trial and error I am sure). So while I wasn't able to complete this on my own, watching the video helped me realize that I need to take a step back and not just jump at the first solution I think of for solving a problem I am facing.
